@@ -4,7 +4,7 @@ import { Star } from "lucide-react";
 const testimonials = [
   {
     name: "Sarah M.",
-    location: "Kalgoorlie Local",
+    location: "Local",
     text: "The contrast therapy changed my recovery game completely. Best investment in my wellness routine.",
     service: "Contrast Therapy",
     rating: 5
@@ -31,7 +31,7 @@ const Testimonials = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4">
-            What Kalgoorlie Says
+            What Our Clients Say
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Real results from real locals who've experienced the power of contrast therapy

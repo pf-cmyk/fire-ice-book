@@ -19,7 +19,7 @@ const images = [
   {
     src: studioExterior,
     alt: "CLIMATIZE Studio exterior",
-    caption: "Your wellness destination in Kalgoorlie"
+    caption: "Your wellness destination"
   }
 ];
 

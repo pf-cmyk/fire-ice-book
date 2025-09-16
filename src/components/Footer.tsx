@@ -13,14 +13,14 @@ const Footer = () => {
               <div>
                 <h3 className="text-2xl font-bold mb-4">CLIMATIZE Studio</h3>
                 <p className="text-muted-foreground">
-                  Kalgoorlie's premier contrast therapy destination
+                  Premier contrast therapy destination
                 </p>
               </div>
               
               <div className="space-y-3">
                 <div className="flex items-center space-x-3">
                   <MapPin className="h-5 w-5 text-fire" />
-                  <span>123 Hannan Street, Kalgoorlie WA 6430</span>
+                  <span>123 Wellness Street, Studio Location</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Phone className="h-5 w-5 text-ice" />
@@ -32,7 +32,7 @@ const Footer = () => {
                 </div>
                 <div className="flex items-center space-x-3">
                   <Instagram className="h-5 w-5 text-ice" />
-                  <span>@climatize_kalgoorlie</span>
+                  <span>@climatize_studio</span>
                 </div>
               </div>
             </div>
@@ -42,7 +42,7 @@ const Footer = () => {
               <div className="bg-muted rounded-lg p-8 text-center">
                 <MapPin className="h-12 w-12 text-fire mx-auto mb-4" />
                 <p className="text-muted-foreground mb-4">
-                  Located in the heart of Kalgoorlie
+                  Visit our wellness studio
                 </p>
                 <Button variant="outline" size="sm">
                   Get Directions
@@ -76,7 +76,7 @@ const Footer = () => {
             </p>
             
             <div className="flex flex-col sm:flex-row justify-center items-center space-y-2 sm:space-y-0 sm:space-x-8 text-sm text-muted-foreground">
-              <span>© 2024 CLIMATIZE Studio Kalgoorlie</span>
+              <span>© 2024 CLIMATIZE Studio</span>
               <span>•</span>
               <span>ABN: 12 345 678 901</span>
               <span>•</span>
@@ -85,7 +85,7 @@ const Footer = () => {
             
             <div className="pt-4">
               <p className="text-xs text-muted-foreground">
-                Fire & Ice • Premium Contrast Therapy • Kalgoorlie's Wellness Destination
+                Fire & Ice • Premium Contrast Therapy • Your Wellness Destination
               </p>
             </div>
           </div>
