@@ -18,7 +18,7 @@ const images = [
   },
   {
     src: studioExterior,
-    alt: "Modern studio exterior with welcoming entrance",
+    alt: "CLIMATIZE Studio exterior",
     caption: "Your wellness destination"
   }
 ];

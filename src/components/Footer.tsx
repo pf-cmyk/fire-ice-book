@@ -11,7 +11,7 @@ const Footer = () => {
             {/* Location & Contact */}
             <div className="space-y-6">
               <div>
-                <h3 className="text-2xl font-bold mb-4">[Your Studio Name]</h3>
+                <h3 className="text-2xl font-bold mb-4">CLIMATIZE Studio</h3>
                 <p className="text-muted-foreground">
                   Premier contrast therapy destination
                 </p>
@@ -20,19 +20,19 @@ const Footer = () => {
               <div className="space-y-3">
                 <div className="flex items-center space-x-3">
                   <MapPin className="h-5 w-5 text-fire" />
-                  <span>[Your Address], [Your City]</span>
+                  <span>123 Wellness Street, Studio Location</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Phone className="h-5 w-5 text-ice" />
-                  <span>[Your Phone Number]</span>
+                  <span>(08) 9021 1234</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Mail className="h-5 w-5 text-fire" />
-                  <span>[your-email@domain.com]</span>
+                  <span>hello@climatizestudio.com.au</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Instagram className="h-5 w-5 text-ice" />
-                  <span>@[your_handle]</span>
+                  <span>@climatize_studio</span>
                 </div>
               </div>
             </div>
@@ -76,9 +76,9 @@ const Footer = () => {
             </p>
             
             <div className="flex flex-col sm:flex-row justify-center items-center space-y-2 sm:space-y-0 sm:space-x-8 text-sm text-muted-foreground">
-              <span>© 2024 [Your Studio Name]</span>
+              <span>© 2024 CLIMATIZE Studio</span>
               <span>•</span>
-              <span>ABN: [Your ABN]</span>
+              <span>ABN: 12 345 678 901</span>
               <span>•</span>
               <span>Licensed & Insured</span>
             </div>

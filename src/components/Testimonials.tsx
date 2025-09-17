@@ -4,14 +4,14 @@ import { Star } from "lucide-react";
 const testimonials = [
   {
     name: "Sarah M.",
-    location: "Local Client",
+    location: "Local",
     text: "The contrast therapy changed my recovery game completely. Best investment in my wellness routine.",
     service: "Contrast Therapy",
     rating: 5
   },
   {
     name: "Mike T.",
-    location: "Regular Client",
+    location: "FIFO Worker",
     text: "After long shifts, the sauna helps me unwind like nothing else. The infrared heat goes deep.",
     service: "Infrared Sauna",
     rating: 5
@@ -34,7 +34,7 @@ const Testimonials = () => {
             What Our Clients Say
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Real results from real clients who've experienced the power of contrast therapy
+            Real results from real locals who've experienced the power of contrast therapy
           </p>
         </div>
         
@@ -71,7 +71,7 @@ const Testimonials = () => {
         {/* Trust badge */}
         <div className="text-center mt-12">
           <p className="text-sm text-muted-foreground">
-            Join 200+ clients who've discovered the power of contrast therapy
+            Join 200+ locals who've discovered the power of contrast therapy
           </p>
         </div>
       </div>

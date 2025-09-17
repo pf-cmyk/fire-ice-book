@@ -49,7 +49,7 @@ const BookingForm = () => {
                 <div className="text-6xl">🔥❄️</div>
                 <h3 className="text-2xl font-bold">You're booked!</h3>
                 <p className="text-muted-foreground">
-                  See you soon at [Your Studio Name]. 
+                  See you soon at CLIMATIZE Studio. 
                   Check your email for session details.
                 </p>
                 <Button
